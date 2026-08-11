@@ -1,0 +1,13 @@
+[
+  {
+    "id": "PAY-8291A",
+    "reservationId": "res-101",
+    "amount": 936.64,
+    "method": "CreditCard",
+    "status": "Success",
+    "transactionId": "TXN-98421039",
+    "timestamp": "2026-08-01T14:32:00Z",
+    "cardLast4": "4242",
+    "cardBrand": "Visa"
+  }
+]

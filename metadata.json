@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Reservation System",
+  "description": "Comprehensive hotel search, room categorization, booking, payment simulation, and reservation management system powered by Object-Oriented Design and server-side File I/O persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

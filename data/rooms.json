@@ -1,0 +1,222 @@
+[
+  {
+    "id": "room-101",
+    "roomNumber": "101",
+    "category": "Standard",
+    "name": "Classic Queen Courtyard",
+    "description": "An elegant, peaceful standard room featuring a plush queen-sized mattress, high-speed fiber internet, rainfall shower, and serene garden courtyard views.",
+    "pricePerNight": 149,
+    "maxGuests": 2,
+    "sizeSqFt": 320,
+    "bedType": "1 Queen Bed",
+    "floor": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "amenities": ["Wi-Fi", "Air Conditioning", "Rainfall Shower", "Smart TV", "Coffee Maker", "Safe"],
+    "status": "Available",
+    "rating": 4.7,
+    "reviewsCount": 84
+  },
+  {
+    "id": "room-102",
+    "roomNumber": "102",
+    "category": "Standard",
+    "name": "Classic Double Twin Room",
+    "description": "Ideal for traveling companions or family trips, offering two comfortable twin beds, ergonomic workspace, and crisp linen bedding.",
+    "pricePerNight": 165,
+    "maxGuests": 2,
+    "sizeSqFt": 350,
+    "bedType": "2 Twin Beds",
+    "floor": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1566665797739-1674de7a421a?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "amenities": ["Wi-Fi", "Air Conditioning", "Work Desk", "Smart TV", "Mini Fridge"],
+    "status": "Available",
+    "rating": 4.6,
+    "reviewsCount": 52
+  },
+  {
+    "id": "room-201",
+    "roomNumber": "201",
+    "category": "Deluxe",
+    "name": "Deluxe King Oceanfront Balcony",
+    "description": "Spacious deluxe room with panoramic ocean views, private furnished balcony, plush King pillow-top bed, and marble bathroom with soaking tub.",
+    "pricePerNight": 249,
+    "maxGuests": 2,
+    "sizeSqFt": 480,
+    "bedType": "1 King Bed",
+    "floor": 2,
+    "images": [
+      "https://images.unsplash.com/photo-1591088398332-8a7791972843?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "amenities": ["Ocean View", "Private Balcony", "King Bed", "Soaking Tub", "Nespresso Machine", "Wi-Fi", "Mini Bar"],
+    "status": "Available",
+    "rating": 4.9,
+    "reviewsCount": 142
+  },
+  {
+    "id": "room-202",
+    "roomNumber": "202",
+    "category": "Deluxe",
+    "name": "Deluxe Family Double Queen Suite",
+    "description": "Designed for luxury family getaways featuring two King beds, cozy seating nook, dual vanity sinks, and complimentary breakfast service.",
+    "pricePerNight": 289,
+    "maxGuests": 4,
+    "sizeSqFt": 550,
+    "bedType": "2 King Beds",
+    "floor": 2,
+    "images": [
+      "https://images.unsplash.com/photo-1566665797739-1674de7a421a?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "amenities": ["2 King Beds", "Breakfast Included", "Dual Vanity", "Smart TV", "Mini Fridge", "Wi-Fi", "Bathrobes"],
+    "status": "Available",
+    "rating": 4.8,
+    "reviewsCount": 98
+  },
+  {
+    "id": "room-203",
+    "roomNumber": "203",
+    "category": "Deluxe",
+    "name": "Garden Sanctuary Patio Deluxe",
+    "description": "Ground-floor sanctuary featuring a private bamboo garden patio, outdoor teak sun lounger, oversized rain shower, and organic botanical bath amenities.",
+    "pricePerNight": 230,
+    "maxGuests": 2,
+    "sizeSqFt": 460,
+    "bedType": "1 King Bed",
+    "floor": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "amenities": ["Garden Patio", "Sun Loungers", "King Bed", "Wi-Fi", "Organic Amenities", "Nespresso"],
+    "status": "Available",
+    "rating": 4.85,
+    "reviewsCount": 61
+  },
+  {
+    "id": "room-301",
+    "roomNumber": "301",
+    "category": "Suite",
+    "name": "Grand Panorama Suite",
+    "description": "Sophisticated multi-room suite with separate living parlor, floor-to-ceiling windows overlooking the Pacific ocean, private jacuzzi, and butler service option.",
+    "pricePerNight": 420,
+    "maxGuests": 3,
+    "sizeSqFt": 750,
+    "bedType": "1 California King Bed",
+    "floor": 3,
+    "images": [
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "amenities": ["Ocean View", "Private Jacuzzi", "Separate Living Room", "Butler Service", "Free Spa Access", "Complimentary Wine"],
+    "status": "Available",
+    "rating": 4.95,
+    "reviewsCount": 116
+  },
+  {
+    "id": "room-302",
+    "roomNumber": "302",
+    "category": "Suite",
+    "name": "Romantic Honeymoon Lagoon Suite",
+    "description": "An intimate sanctuary offering direct lagoon pool access, freestanding copper bathtub, champagne on arrival, and candlelit terrace dining nook.",
+    "pricePerNight": 490,
+    "maxGuests": 2,
+    "sizeSqFt": 810,
+    "bedType": "1 Four-Poster King Bed",
+    "floor": 3,
+    "images": [
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1591088398332-8a7791972843?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "amenities": ["Direct Pool Access", "Copper Bathtub", "Four-Poster Bed", "Free Champagne", "Private Terrace", "Sound System"],
+    "status": "Available",
+    "rating": 4.98,
+    "reviewsCount": 89
+  },
+  {
+    "id": "room-401",
+    "roomNumber": "401",
+    "category": "Executive",
+    "name": "Executive Business Lounge Suite",
+    "description": "Tailored for discerning business leaders, including access to the private Executive Lounge, high-speed encrypted Wi-Fi, executive desk, and daily cocktail hour.",
+    "pricePerNight": 380,
+    "maxGuests": 2,
+    "sizeSqFt": 620,
+    "bedType": "1 King Bed",
+    "floor": 4,
+    "images": [
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "amenities": ["Executive Lounge Access", "High-Speed Wi-Fi", "Ergonomic Desk", "Free Breakfast", "Airport Shuttle", "Dry Cleaning"],
+    "status": "Available",
+    "rating": 4.88,
+    "reviewsCount": 76
+  },
+  {
+    "id": "room-402",
+    "roomNumber": "402",
+    "category": "Executive",
+    "name": "Skyline Corner Loft",
+    "description": "Dual-aspect glass windows with sweeping skyline sunset views, double-height ceilings, private bar setup, and automated blackout shades.",
+    "pricePerNight": 395,
+    "maxGuests": 3,
+    "sizeSqFt": 680,
+    "bedType": "1 King Bed + Lounge Sofa",
+    "floor": 4,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "amenities": ["Skyline View", "Private Bar", "Automated Blinds", "Smart TV", "Executive Lounge Access", "Wi-Fi"],
+    "status": "Available",
+    "rating": 4.91,
+    "reviewsCount": 54
+  },
+  {
+    "id": "room-501",
+    "roomNumber": "501",
+    "category": "Penthouse",
+    "name": "Presidential Sky Penthouse",
+    "description": "The crown jewel of Grand Royale: a 1,400 sq. ft. top-floor penthouse with private heated plunge pool on a wrap-around terrace, private elevator, and master bath steam room.",
+    "pricePerNight": 850,
+    "maxGuests": 4,
+    "sizeSqFt": 1400,
+    "bedType": "1 Master King Bed + Sofa Bed",
+    "floor": 5,
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "amenities": ["Private Terrace Plunge Pool", "Private Elevator", "Steam Room", "Helipad Access", "Unlimited Spa", "Personal Concierge"],
+    "status": "Available",
+    "rating": 5.0,
+    "reviewsCount": 42
+  },
+  {
+    "id": "room-502",
+    "roomNumber": "502",
+    "category": "Penthouse",
+    "name": "Royal Oceanfront Beach Bungalow",
+    "description": "Exclusive freestanding beachfront residence featuring private infinity splash pool, direct beach pathway, outdoor rain shower, and 24/7 private chef service on request.",
+    "pricePerNight": 950,
+    "maxGuests": 5,
+    "sizeSqFt": 1650,
+    "bedType": "2 Master Suites (King Beds)",
+    "floor": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "amenities": ["Private Infinity Pool", "Direct Beach Access", "Private Chef Service", "Outdoor Shower", "Butler Service", "Airport Chauffeur"],
+    "status": "Available",
+    "rating": 4.99,
+    "reviewsCount": 38
+  }
+]

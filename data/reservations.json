@@ -1,0 +1,48 @@
+[
+  {
+    "id": "res-101",
+    "confirmationCode": "RES-X82K9P",
+    "roomId": "room-201",
+    "roomSummary": {
+      "name": "Deluxe King Oceanfront Balcony",
+      "category": "Deluxe",
+      "roomNumber": "201",
+      "image": "https://images.unsplash.com/photo-1591088398332-8a7791972843?auto=format&fit=crop&w=1200&q=80"
+    },
+    "guest": {
+      "firstName": "Sarah",
+      "lastName": "Jenkins",
+      "email": "sarah.j@example.com",
+      "phone": "+1 (555) 234-5678",
+      "membershipTier": "VIP",
+      "specialRequests": "High floor room away from elevator, champagne on arrival."
+    },
+    "checkInDate": "2026-08-20",
+    "checkOutDate": "2026-08-23",
+    "guestsCount": 2,
+    "pricing": {
+      "pricePerNight": 249,
+      "nights": 3,
+      "roomTotal": 747,
+      "taxAmount": 89.64,
+      "resortFee": 75,
+      "cleaningFee": 25,
+      "discount": 0,
+      "grandTotal": 936.64
+    },
+    "payment": {
+      "id": "PAY-8291A",
+      "reservationId": "res-101",
+      "amount": 936.64,
+      "method": "CreditCard",
+      "status": "Success",
+      "transactionId": "TXN-98421039",
+      "timestamp": "2026-08-01T14:32:00Z",
+      "cardLast4": "4242",
+      "cardBrand": "Visa"
+    },
+    "status": "Confirmed",
+    "createdAt": "2026-08-01T14:32:00Z",
+    "updatedAt": "2026-08-01T14:32:00Z"
+  }
+]

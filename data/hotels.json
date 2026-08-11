@@ -1,0 +1,25 @@
+[
+  {
+    "id": "hotel-01",
+    "name": "Grand Royale Hotel & Spa",
+    "tagline": "5-Star Luxury Living & Coastal Panoramic Views",
+    "address": "777 Oceanfront Boulevard",
+    "city": "Grand Harbour, CA",
+    "country": "United States",
+    "rating": 4.9,
+    "totalReviews": 1280,
+    "phone": "+1 (800) 555-ROYALE",
+    "email": "concierge@grandroyalehotel.com",
+    "checkInTime": "3:00 PM",
+    "checkOutTime": "11:00 AM",
+    "description": "Welcome to the Grand Royale Hotel & Spa. Nestled on private oceanfront bluffs, our luxury resort offers world-class dining, heated infinity pools, full-service spa treatments, and meticulously designed rooms ranging from classic comfort to presidential penthouses.",
+    "policies": [
+      "Check-in from 3:00 PM, Check-out by 11:00 AM",
+      "Government-issued photo ID & credit card required at check-in",
+      "Free cancellation up to 24 hours prior to check-in date",
+      "Smoke-free property. Designated outdoor smoking areas available",
+      "Pets allowed in select Deluxe and Villa suites with prior deposit"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1600&q=80"
+  }
+]
